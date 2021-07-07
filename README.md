@@ -8,7 +8,7 @@ Aplicación para crear y consultar vuelos a partir de rutas y tarifas. Cuenta co
 
 ###Instrucciones
 
-Descarga el proyecto
-Abre el proyecto desde un IDE (Recomendado Usar IntelliJ IDEA)
-Espera unos instantes mienstras se descargan las dependencias
-Ejecuta el archivo de pruebas: PromocionVuelosTest
+1. Descarga el proyecto
+2. Abre el proyecto desde un IDE (Recomendado Usar IntelliJ IDEA)
+3. Espera unos instantes mienstras se descargan las dependencias
+4. Ejecuta el archivo de pruebas: PromocionVuelosTest
