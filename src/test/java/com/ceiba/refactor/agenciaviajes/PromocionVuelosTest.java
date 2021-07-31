@@ -25,7 +25,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 @SpringBootTest
 @AutoConfigureMockMvc
-public class PromocionVuelosTest {
+class PromocionVuelosTest {
 
     @Autowired
     private MockMvc mockMvc;
@@ -62,7 +62,7 @@ public class PromocionVuelosTest {
 
 
     @Test
-    public void listarVuelosOk() {
+    void listarVuelosOk() {
 
         VueloRepositorio vueloRepositoryMock = Mockito.mock(VueloRepositorio.class);
 
